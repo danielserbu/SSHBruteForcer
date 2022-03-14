@@ -4,10 +4,10 @@
 ### SSHBruteForcer Python program created for educational purposes.
 
 ## Accepts the following parameters
--t target ip
--p target port
--u ssh username to bruteforce
--w passwords wordlist
+1. -t target ip
+2. -p target port
+3. -u ssh username to bruteforce
+4. -w passwords wordlist
 
 
 ![](demo.gif)
